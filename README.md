@@ -23,7 +23,7 @@ npm run dev        # http://localhost:5173
 npm run build && npm run lint && npm run typecheck && npm test
 ```
 
-Node 22. Set `BASE_PATH=/junior-evidence-review/` when building for a sub-path host.
+Node 22. Set `BASE_PATH=/junior-evidence-review-demo/` when building for a sub-path host. The GitHub Pages workflow in `.github/workflows/pages.yml` does this and only runs when started manually.
 
 ## Walkthrough video
 
