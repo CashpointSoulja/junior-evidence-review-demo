@@ -1,0 +1,26 @@
+Junior Evidence Review: 2-minute walkthrough
+Independent concept by Ayo Ahmed, not affiliated with Junior AI. Synthetic demo data only.
+
+[00:00:00] This is Evidence Review, an independent concept for Junior's research workflow. Everything here is synthetic: a fictional private equity software deal, with three expert calls.
+
+[00:00:12] Before a synthesis goes to a VP or the investment committee, each claim is checked against the exact quotes it cites, with the call, timestamp, cohort and period.
+
+[00:00:23] This claim says renewal prices rose seven percent. The competitor said twelve, for the same scope and year. That's a real contradiction. The customer's twelve percent covers one firm, so it shows as a cohort difference, not a conflict.
+
+[00:00:39] Click any source, and the transcript opens right at that quote.
+
+[00:00:44] The reviewer decides: supported, disputed, or insufficient. A dispute needs a note.
+
+[00:00:50] This claim stretches mid-market retention to every segment. I narrow the scope. The edit is versioned, and the old review is cleared.
+
+[00:00:59] The handoff gate stays blocked while any claim lacks a source, or a required decision.
+
+[00:01:05] Once the rest are resolved, the brief can be approved as handoff ready.
+
+[00:01:09] Remove one source, and approval is voided at once. Restore it, and it still needs a fresh review.
+
+[00:01:16] Open gaps become a follow-up guide, built from fixed, neutral templates. Every question is editable, and leading wording gets flagged.
+
+[00:01:26] The export carries source links, gaps and synthetic labels. Selected names are redacted, but a person must read the preview, and accept that this is not anonymisation.
+
+[00:01:37] Metrics show their numerators, denominators and windows. No adoption is claimed. The next step is testing this with real deal teams.
