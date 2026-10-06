@@ -2,6 +2,8 @@
 
 **Independent concept by Ayo Ahmed, not affiliated with Junior AI.** A one-week product increment for the London Senior Product Manager role. All companies, people, calls and figures are synthetic.
 
+**Live demo:** https://cashpointsoulja.github.io/junior-evidence-review-demo/ · **Walkthrough video (Google Drive):** https://drive.google.com/file/d/1OAq2Y20Wu27fnLi6k-L8f19PYONPjIdP/view
+
 Before a deal-team synthesis goes to a VP, IC or client, Evidence Review checks every claim against the exact expert quotes it cites. It also tells real contradictions apart from cohort differences. The brief can't be marked handoff-ready until every included claim has a source and every risky one has a human decision.
 
 ## What it does
@@ -27,7 +29,7 @@ Node 22. Set `BASE_PATH=/junior-evidence-review-demo/` when building for a sub-p
 
 ## Walkthrough video
 
-[2-minute vertical walkthrough (MP4, 1080×1920, 1:48)](docs/video/junior-evidence-review-walkthrough.mp4). It is recorded from the live UI with voice and burned-in captions. A [transcript](docs/video/transcript.txt) and [captions (SRT)](docs/video/captions.srt) are alongside.
+[Watch on Google Drive](https://drive.google.com/file/d/1OAq2Y20Wu27fnLi6k-L8f19PYONPjIdP/view) or open the [2-minute vertical walkthrough in this repo (MP4, 1080×1920, 1:48)](docs/video/junior-evidence-review-walkthrough.mp4). It is recorded from the live UI with voice and burned-in captions. A [transcript](docs/video/transcript.txt) and [captions (SRT)](docs/video/captions.srt) are alongside.
 
 ## Docs
 
